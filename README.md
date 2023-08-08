@@ -1,4 +1,4 @@
-[![Header](https://github.com/Ksu0007/Ksu0007/blob/main/Assets/download.jpeg)]
+![Header](https://github.com/Ksu0007/Ksu0007/blob/main/Assets/download.jpeg)
 
 ## I'm a beginner QA Engineer
 
@@ -17,4 +17,4 @@
 
 ### Follow Me
 
-![Header](https://www.linkedin.com/in/oksana-kazanchuk-a62661286/)
+[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/oksana-kazanchuk-a62661286/)
