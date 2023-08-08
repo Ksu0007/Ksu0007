@@ -17,4 +17,4 @@
 
 ### Follow Me
 
-[![Header](https://www.linkedin.com/in/oksana-kazanchuk-a62661286/)
+![Header](https://www.linkedin.com/in/oksana-kazanchuk-a62661286/)
