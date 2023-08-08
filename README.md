@@ -1,4 +1,4 @@
-![Header](https://github.com/Ksu0007/Ksu0007/blob/main/Assets/quote-2023-08-08-d66fdc3a79a97cd682a3c2e02f22f028.jpg)
+![Header](https://github.com/Ksu0007/Ksu0007/blob/main/Assets/1.jpg)
 
 ## I'm a beginner QA Engineer
 
