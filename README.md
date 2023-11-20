@@ -4,7 +4,7 @@
 
 ## My CV
 
-[Link to my CV]([https://drive.google.com/file/d/1D5FcVnC0FRvxsiTN8uPuombOHs-OImfT/view?usp=sharing](https://drive.google.com/file/d/1D3SLA6tmctZXaUwDv9Zd2UokEytrij1u/view?usp=sharing))
+[Link to my CV]([https://drive.google.com/file/d/1D5FcVnC0FRvxsiTN8uPuombOHs-OImfT/view?usp=sharing](https://drive.google.com/file/d/1D3SLA6tmctZXaUwDv9Zd2UokEytrij1u/view?usp=sharing)
 
 ![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
