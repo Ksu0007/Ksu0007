@@ -29,3 +29,4 @@
 - [Bug reports]
 
 ### Java
+- [Accomodations calculator](https://github.com/Ksu0007/Java-projects)
