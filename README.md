@@ -1,4 +1,4 @@
-![Header](https://github.com/Ksu0007/Ksu0007/blob/main/Assets/1.jpg)
+![Header]([![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Howdy!;Oksana's here!)](https://git.io/typing-svg))
 
 ## I'm a beginner QA Engineer
 
