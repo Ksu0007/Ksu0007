@@ -1,4 +1,3 @@
-
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=72&pause=1000&color=RSB53&random=false&width=600&height=200&lines=Howdy!++Oksana's+Here!" alt="Typing SVG" /></a>
   <!--  <img align src="path here / about.gif" /> --!>  
